@@ -24,19 +24,18 @@ const imageAltText = "This is another codiing image.";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
-
+  "I am a DevOps and Backend Enthusiast. I am currently pursuing my B.Tech in Computer Science and Engineering from Chitakra University Baddi Campus. I am a passionate learner and always ready to learn new technologies. I am a team player and always ready to help others. I am a hardworking person and always ready to face challenges.";
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Web development",
+  "Android Development",
+  "DevOps",
+  "Backend Development",
+  "Software Development",
+  "Cloud Computing",
 ];
 
 /**
@@ -45,7 +44,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I am passionate about software Development and different software development domains. I like the process from writing a line of code to implementing it for the end user.";
 
 const About = () => {
   return (

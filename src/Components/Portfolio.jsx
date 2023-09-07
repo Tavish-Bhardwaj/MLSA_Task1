@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Learning Complete Java Programming Language | Resources 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Learn complete Java programming Language  from scratch with resources to learn DS and Algo in Java.",
+    url: "https://github.com/Tavish-Bhardwaj/DSA-Bootcamp-Java",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Software Development Roadmaps",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Collection of some Software Development Roadmaps have been shared with you all",
+    url: "https://github.com/Tavish-Bhardwaj/roadmaps",
   },
   {
     title: "My Resume Site",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "This site has been created by me and also learnt how to buy domains and host websites.",
+    url: "https://tavishbhardwaj.me/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "100 Problems for Java Developer",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "You are provided with a problem set of 1-- problems which targets at building the concept of Java Programming Language.",
+    url: "https://github.com/Tavish-Bhardwaj/100ProblemsinJAVA",
   },
 ];
 
